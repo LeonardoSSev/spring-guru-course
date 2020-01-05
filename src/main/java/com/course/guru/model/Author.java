@@ -1,4 +1,4 @@
-package com.example.course.guru.model;
+package com.course.guru.model;
 
 import javax.persistence.*;
 import java.util.HashSet;

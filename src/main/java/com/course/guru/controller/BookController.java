@@ -1,6 +1,6 @@
-package com.example.course.guru.controller;
+package com.course.guru.controller;
 
-import com.example.course.guru.repository.BookRepository;
+import com.course.guru.repository.BookRepository;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;

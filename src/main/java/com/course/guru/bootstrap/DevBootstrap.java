@@ -1,11 +1,11 @@
-package com.example.course.guru.bootstrap;
+package com.course.guru.bootstrap;
 
-import com.example.course.guru.model.Author;
-import com.example.course.guru.model.Book;
-import com.example.course.guru.model.Publisher;
-import com.example.course.guru.repository.AuthorRepository;
-import com.example.course.guru.repository.BookRepository;
-import com.example.course.guru.repository.PublisherRepository;
+import com.course.guru.model.Book;
+import com.course.guru.model.Author;
+import com.course.guru.model.Publisher;
+import com.course.guru.repository.AuthorRepository;
+import com.course.guru.repository.BookRepository;
+import com.course.guru.repository.PublisherRepository;
 import org.springframework.context.ApplicationListener;
 import org.springframework.context.event.ContextRefreshedEvent;
 import org.springframework.stereotype.Component;
